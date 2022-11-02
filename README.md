@@ -17,11 +17,6 @@
 ![moodie](https://user-images.githubusercontent.com/71927533/199387177-92fc7bcf-a165-4195-96d0-ea44f4f39c24.PNG)
 
 
-- 차별성
-
-![차별성](https://user-images.githubusercontent.com/71927533/199383979-130f45ff-822e-4b19-8325-f065c4c47c25.PNG)
-
-
 - 팀원 소개 및 역할
 
 프론트엔드, 기획, 디자인
