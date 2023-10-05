@@ -2,7 +2,7 @@
 
 ### 📌 Summary
 
-2022.04~ 진행중
+2022.04 ~ 중단
 
 #### 팀프로젝트, Team: OTT, Moodie (함께 쓰는 우정 문답 다이어리) - 프론트 엔드 부분 
 
@@ -57,11 +57,8 @@ Mobile App: Flutter, JavaScript
 Web: Python
 DB: Firebase Authentication
 
-
-
 ### Design
 
 https://www.figma.com/file/JMQCikOIyFoSTDYyx2cLW1/OTT?node-id=38%3A22
-
 
 #### Flutter 언어로 개발한 ios 모바일 앱입니다. 로그인/회원가입 기능 이외의 모바일 앱을 처음으로 개발함으로써 개발에 대한 자신감을 얻을 수 있었습니다. 
