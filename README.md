@@ -59,6 +59,6 @@ https://github.com/jaiwon880/moodie/issues/1#issuecomment-1299509145
 
 ### 🎨 Design
 - Figma
-[](https://www.figma.com/file/JMQCikOIyFoSTDYyx2cLW1/OTT?node-id=38%3A22)
+[웹사이트 초안](https://www.figma.com/file/JMQCikOIyFoSTDYyx2cLW1/OTT?node-id=38%3A22)
 
 #### Flutter 언어로 개발한 ios 모바일 앱입니다. 로그인/회원가입 기능 이외의 모바일 앱을 처음으로 개발함으로써 개발에 대한 자신감을 얻을 수 있었습니다. 
